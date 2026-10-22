@@ -1,4 +1,3 @@
-import OK
+A03B6C2A6C440189
 
-if __name__ == '__main__':
-    OK.BNG_71_()
+
